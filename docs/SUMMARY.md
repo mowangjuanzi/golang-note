@@ -13,3 +13,7 @@
     * [函数](language/function.md)
     * [结构体](language/struct.md)
     * [关键字](language/keyword.md)
+* 核心
+    * 垃圾回收
+    * 协程
+    * GMP
