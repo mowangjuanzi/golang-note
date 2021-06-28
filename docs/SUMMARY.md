@@ -1,7 +1,15 @@
 # Summary
 
 * [简介](README.md)
-* [安装](install.md)
-* [开发工具](editor.md)
-* [你好，世界](helloWorld.md)
-* [关键字](keyword.md)
+* [安装与配置](install-setup/README.md)
+    * [安装](install-setup/install.md)
+    * [开发工具](install-setup/editor.md)
+    * [VS Code](install-setup/vscode.md)
+* [语言参考](language/README.md)
+    * [你好，世界](language/helloWorld.md)
+    * [基础语法](language/basic.md)
+    * [数据类型](language/dataType.md)
+    * 变量
+    * [函数](language/function.md)
+    * [结构体](language/struct.md)
+    * [关键字](language/keyword.md)
