@@ -1,0 +1,14 @@
+{
+  "name": "golang-note",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mowangjuanzi/golang-note.git",
+  "author": "mowangjuanzi <baoguoxiao0538@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "honkit": "^3.6.20"
+  },
+  "scripts": {
+    "serve": "honkit serve"
+  }
+}
