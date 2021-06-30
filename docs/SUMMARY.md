@@ -10,6 +10,7 @@
     * [基础语法](language/basic.md)
     * [数据类型](language/dataType.md)
     * 变量
+    * [流程控制](language/processControl.md)
     * [函数](language/function.md)
     * [结构体](language/struct.md)
     * [关键字](language/keyword.md)
